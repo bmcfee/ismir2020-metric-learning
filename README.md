@@ -15,7 +15,7 @@ For the first coding demo, follow this link: http://bit.ly/ml4mir-demo-1
 
 To use the code, you will need to click the "Connect" button: 
 
-!(colab-connect.png)
+![Colab Connect button](colab-connect.png)
 
 After clicking this button and waiting a few seconds, you should have an active notebook instance.
 You may observe a warning message because the notebook was developed by us (and not Google) -- that's normal.  As long as you trust us to write reasonable code, feel free to accept the warning and continue. :grin:
