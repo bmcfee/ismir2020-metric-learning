@@ -42,5 +42,8 @@ conda activate metriclearningmir
 
 5. You should now be able to run the `Metric Learning Demo.ipynb` notebook in Jupyter:
 ```
-jupyter "Metric Learning Demo.ipynb"
+jupyter notebook "Metric Learning Demo.ipynb"
 ```
+You may be prompted to change the environment for the notebook when it loads: if so, select `metriclearningmir` and you should be all set.
+
+Happy hacking!
