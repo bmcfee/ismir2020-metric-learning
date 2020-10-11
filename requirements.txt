@@ -1,0 +1,8 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+metric-learn
+umap-learn

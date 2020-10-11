@@ -46,4 +46,21 @@ jupyter notebook "Metric Learning Demo.ipynb"
 ```
 You may be prompted to change the environment for the notebook when it loads: if so, select `metriclearningmir` and you should be all set.
 
+
+## Option 3: pip
+
+If you prefer to not use conda environments, and already have a working Python
+(3.6+) installation, you can instead perform the following steps:
+
+1. Clone this repository.
+2. Run the command `pip install -r requirements.txt` (from inside the repository
+   directory).
+
+You can then run
+```
+jupyter notebook "Metric Learning Demo.ipynb"
+```
+
+just as in the directions above for `conda`.
+
 Happy hacking!
