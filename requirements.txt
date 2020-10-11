@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 metric-learn
 umap-learn
+tensorflow
