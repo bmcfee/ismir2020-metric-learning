@@ -1,8 +1,8 @@
 # ismir2020-metric-learning
 ISMIR 2020 Tutorial for Metric Learning in MIR
 
-- [Jongpil Lee](https://jongpillee.github.io/)
 - [Brian McFee](https://brianmcfee.net)
+- [Jongpil Lee](https://jongpillee.github.io/)
 - [Juhan Nam](https://mac.kaist.ac.kr/~juhan/)
 
 # Using these materials
@@ -73,3 +73,8 @@ jupyter notebook "Deep Metric Learning Demo.ipynb"
 just as in the directions above for `conda`.
 
 Happy hacking!
+
+# References
+[Link to references](https://github.com/bmcfee/ismir2020-metric-learning/blob/main/references.md)
+
+You can find references related to this tutorial at the link above.
