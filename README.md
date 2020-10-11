@@ -1,9 +1,9 @@
 # ismir2020-metric-learning
 ISMIR 2020 Tutorial for Metric Learning in MIR
 
-- Jongpil Lee
+- [Jongpil Lee](https://jongpillee.github.io/)
 - [Brian McFee](https://brianmcfee.net)
-- Juhan Nam
+- [Juhan Nam](https://mac.kaist.ac.kr/~juhan/)
 
 # Using these materials
 
@@ -12,6 +12,8 @@ ISMIR 2020 Tutorial for Metric Learning in MIR
 The easiest way to follow along with the coding session of the tutorial is to use Google Colab's notebook server.  This will require a Google account, but you will not need to install any software on your own machine.
 
 For the first coding demo, follow this link: http://bit.ly/ml4mir-demo-1
+
+For the second coding demo, follow this link: http://bit.ly/ml4mir-demo-2
 
 To use the code, you will need to click the "Connect" button: 
 
@@ -40,9 +42,13 @@ conda env create -f metriclearningmir.yml
 conda activate metriclearningmir
 ```
 
-5. You should now be able to run the `Metric Learning Demo.ipynb` notebook in Jupyter:
+5. You should now be able to run the `Metric Learning Demo.ipynb` or `Deep Metric Learning Demo.ipynb` notebook in Jupyter:
 ```
 jupyter notebook "Metric Learning Demo.ipynb"
+```
+or 
+```
+jupyter notebook "Deep Metric Learning Demo.ipynb"
 ```
 You may be prompted to change the environment for the notebook when it loads: if so, select `metriclearningmir` and you should be all set.
 
@@ -60,7 +66,10 @@ You can then run
 ```
 jupyter notebook "Metric Learning Demo.ipynb"
 ```
-
+or 
+```
+jupyter notebook "Deep Metric Learning Demo.ipynb"
+```
 just as in the directions above for `conda`.
 
 Happy hacking!
