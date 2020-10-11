@@ -5,6 +5,11 @@ ISMIR 2020 Tutorial for Metric Learning in MIR
 - [Jongpil Lee](https://jongpillee.github.io/)
 - [Juhan Nam](https://mac.kaist.ac.kr/~juhan/)
 
+# The tutorial
+
+- [Slides](Metric Learning for MIR.pdf)
+- Videos .. coming soon!
+
 # Using these materials
 
 ## Option 1: Google Colab
