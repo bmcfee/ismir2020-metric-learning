@@ -59,3 +59,12 @@
 * [IEEE TASLP 2019] Siamese Style Convolutional Neural Networks for Sound Search by Vocal Imitation, Yichi Zhang, Bryan Pardo, Zhiyao Duan
 * [ICASSP 2019] Look, Listen and Learn More: Design Choices for Deep Audio Embeddings, Jason Cramer, Ho-Hsiang Wu, Justin Salamon, and Juan Pablo Bello.
 * [CBMI 2019] Multi-task music representation learning from multi-label embeddings, Alexander Schindler, Peter Knees
+
+### 2020
+[ISMIR 2020] Metric Learning VS Classification for Disentangled Music Representation Learning, Jongpil Lee, Nicholas J. Bryan, Justin Salamon, Zeyu Jin, Juhan Nam
+[ICASSP 2020] Disentangled multidimensional metric learning for music similarity, Jongpil Lee, Nicholas J. Bryan, Justin Salamon, Zeyu Jin, Juhan Nam
+[AES 2020] Drum sample retrieval from mixed audio via a joint embedding space of mixed and single audio samples, Wonil Kim, Juhan Nam
+[ICASSP 2020] Learning to rank music tracks using triplet loss, Laure Prétet, Gaël Richard, Geoffroy Peeters
+[ICASSP 2020] A Prototypical Triplet Loss for Cover Detection: Guillaume Doras, Geoffroy Peeters
+[AppSci 2020] Learning low-dimensional embeddings of audio shingles for cross-version retrieval of classical music, Frank Zalkow, Meinard Müller
+
