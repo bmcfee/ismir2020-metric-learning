@@ -67,4 +67,5 @@
 * [ICASSP 2020] Learning to rank music tracks using triplet loss, Laure Prétet, Gaël Richard, Geoffroy Peeters
 * [ICASSP 2020] A Prototypical Triplet Loss for Cover Detection: Guillaume Doras, Geoffroy Peeters
 * [AppSci 2020] Learning low-dimensional embeddings of audio shingles for cross-version retrieval of classical music, Frank Zalkow, Meinard Müller
+* [ISMIR 2020] Few-Shot Drum Transcription in Polyphonic Music, Yu Wang, Justin Salamon, Mark Cartwright, Nicholas J. Bryan, Juan Pablo Bello
 
