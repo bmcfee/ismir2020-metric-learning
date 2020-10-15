@@ -68,4 +68,5 @@
 * [ICASSP 2020] A Prototypical Triplet Loss for Cover Detection: Guillaume Doras, Geoffroy Peeters
 * [AppSci 2020] Learning low-dimensional embeddings of audio shingles for cross-version retrieval of classical music, Frank Zalkow, Meinard Müller
 * [ISMIR 2020] Few-Shot Drum Transcription in Polyphonic Music, Yu Wang, Justin Salamon, Mark Cartwright, Nicholas J. Bryan, Juan Pablo Bello
+* [ISMIR 2020] Less is More: Faster and Better Music Version Identification with Embedding Distillation, Furkan Yesiler, Joan Serra, Emilia Gomez
 
