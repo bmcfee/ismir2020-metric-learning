@@ -9,15 +9,15 @@ ISMIR 2020 Tutorial for Metric Learning in MIR
 
 ### Slides
 
-- Metric Learning for MIR.pdf
+- [Slides](Metric%20Learning%20for%20MIR.pdf)
 
 ### Videos
 
 - Part 1 Foundations and coding practice: https://www.youtube.com/watch?v=MrAQIYPAmTw
-- Part 2 Deep Metric Learning: https://www.youtube.com/watch?v=laAqMTnwJ4k
-- Part 2 coding practice: https://www.youtube.com/watch?v=E3QHx0YGNwI
-- Part 3 Variations: https://www.youtube.com/watch?v=HnAgs22PP8k
-- Part 3 closing remarks: https://www.youtube.com/watch?v=DGCAbkt0LE8
+- Part 2 Deep metric learning: https://www.youtube.com/watch?v=laAqMTnwJ4k
+- Part 2 Coding practice: https://www.youtube.com/watch?v=E3QHx0YGNwI
+- Part 3 Variations and modern applications: https://www.youtube.com/watch?v=HnAgs22PP8k
+- Part 3 Closing remarks: https://www.youtube.com/watch?v=DGCAbkt0LE8
 
 # Using these materials
 
