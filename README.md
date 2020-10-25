@@ -9,7 +9,7 @@ ISMIR 2020 Tutorial for Metric Learning in MIR
 
 ### Slides
 
-- [Slides](Metric%20Learning%20for%20MIR.pdf)
+- [Metric Learning for MIR.pdf](Metric%20Learning%20for%20MIR.pdf)
 
 ### Videos
 
